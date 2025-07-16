@@ -12,3 +12,43 @@
     "footer footer";
 
 }
+
+.navbar {
+    grid-area: navbar;
+}
+
+.heading_1 {
+    grid-area: heading_1;
+}
+
+.image_1 {
+    grid-area: image_1;
+}
+
+.text_1 {
+    grid-area: text_1;
+}
+
+.image_2 {
+    grid-area: image_2;
+}
+
+.image_3 {
+    grid-area: image_3;
+}
+
+.text_2 {
+    grid-area: text_2;
+}
+
+.text_3 {
+    grid-area: text_3;
+}
+
+.video_1 {
+    grid-area: video_1;
+}
+
+.footer {
+    grid-area: footer;
+}
