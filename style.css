@@ -13,7 +13,7 @@ body {
     "image_1 text_1"
     "image_2 image_3"
     "text_2 text_3"
-    "vid_1 vid_1"
+    "vid_1 vid_2"
     "footer footer";
 
 }
@@ -64,6 +64,10 @@ body {
 .vid_1 {
     grid-area: vid_1;
     background-color: #E5E6E4
+}
+
+.text_4 {
+    grid-area: text_4;
 }
 
 .footer {
