@@ -66,8 +66,9 @@ body {
     background-color: #E5E6E4
 }
 
-.text_4 {
-    grid-area: text_4;
+.vid_2 {
+    grid-area: vid_2;
+    background-color: #E5E6E4;
 }
 
 .footer {
