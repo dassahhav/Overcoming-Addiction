@@ -25,6 +25,18 @@ body {
     font-size: 30px;
 }
 
+.navbar ul { 
+     list-style-type: none;
+}
+
+.navbar li {
+    display: inline-block;
+     border: 2px solid #ffffff;
+     padding: 30px;
+     color: #06070c;
+     display: inline;
+}
+
 .heading_1 {
     grid-area: heading_1;
     text-align: center;
