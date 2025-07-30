@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 body {
     background-color: #E5E6E4;
+    margin: 3%;
 }
 
 .container {
@@ -31,7 +32,6 @@ body {
 
 .navbar li {
     display: inline-block;
-     border: 2px solid #ffffff;
      padding: 30px;
      color: #06070c;
      display: inline;
