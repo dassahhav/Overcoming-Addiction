@@ -51,6 +51,7 @@ body {
 .text_1 {
     grid-area: text_1;
     background-color: #FBFBF2;
+    font-size: 30px;
 }
 
 .image_2 {
@@ -66,11 +67,13 @@ body {
 .text_2 {
     grid-area: text_2;
     background-color: #FBFBF2;
+    font-size: 30px;
 }
 
 .text_3 {
     grid-area: text_3;
     background-color: #FBFBF2;
+    font-size: 30px;
 }
 
 .vid_1 {
