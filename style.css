@@ -22,7 +22,7 @@ body {
 .navbar {
     grid-area: navbar;
     background-color: #CFD2CD;
-    text-align: center;
+    text-align: right;
     font-size: 30px;
 }
 
