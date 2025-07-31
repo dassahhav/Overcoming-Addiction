@@ -14,8 +14,9 @@ body {
     "image_1 text_1"
     "image_2 image_3"
     "text_2 text_3"
-    "vid_1 vid_2"
+    "vid_1 vid_1"
     "footer footer";
+    
 
 }
 
@@ -52,7 +53,7 @@ body {
     grid-area: text_1;
     background-color: #FBFBF2;
     font-size: 25px;
-    
+    padding: 40px;
 }
 
 .image_2 {
@@ -69,22 +70,20 @@ body {
     grid-area: text_2;
     background-color: #FBFBF2;
     font-size: 25px;
+    padding: 40px;
 }
 
 .text_3 {
     grid-area: text_3;
     background-color: #FBFBF2;
     font-size: 25px;
+    padding: 40px;
 }
 
 .vid_1 {
-    grid-area: vid_1;
-    background-color: #E5E6E4
-}
-
-.vid_2 {
     grid-area: vid_2;
     background-color: #E5E6E4;
+    padding: 40px;
 }
 
 .footer {
