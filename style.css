@@ -53,7 +53,11 @@ body {
     grid-area: text_1;
     background-color: #FBFBF2;
     font-size: 25px;
-    padding: 40px;
+    padding-left: 30%;
+    border-color: #06070c;
+    border-radius: 15px;
+    border-width: 2%;
+    border-style: ridge;
 }
 
 .image_2 {
@@ -81,8 +85,9 @@ body {
 }
 
 .vid_1 {
-    grid-area: vid_2;
+    grid-area: vid_1;
     background-color: #E5E6E4;
+    text-align: center;
     padding: 40px;
 }
 
