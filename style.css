@@ -46,24 +46,24 @@ body {
 
 .image_1 {
     grid-area: image_1;
-    background-color: #FBFBF2;
+    background-color: #CFD2CD;
 }
 
 .text_1 {
     grid-area: text_1;
-    background-color: #FBFBF2;
+    background-color: #CFD2CD;
     font-size: 25px;
     padding-left: 20%;
 }
 
 .image_2 {
     grid-area: image_2;
-    background-color: #FBFBF2;
+    background-color: #E5E6E4;
 }
 
 .image_3 {
     grid-area: image_3;
-    background-color: #FBFBF2;
+    background-color: #E5E6E4;
     padding-left: 20%;
 }
 
