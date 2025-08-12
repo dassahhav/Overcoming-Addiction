@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 body {
-    background-color: #E5E6E4;
     margin: 3%;
 }
 
@@ -12,9 +11,8 @@ body {
     "navbar navbar"
     "heading_1 heading_1"
     "image_1 text_1"
-    "image_2 image_3"
-    "text_2 text_3"
-    "vid_1 vid_1"
+    "image_2 text_2"
+    "image_3 text_3"
     "footer footer";
     
 
@@ -41,54 +39,48 @@ body {
 .heading_1 {
     grid-area: heading_1;
     text-align: center;
-    font-size: 30px
+    font-size: 50px
 }
 
 .image_1 {
     grid-area: image_1;
-    background-color: #CFD2CD;
 }
 
 .text_1 {
     grid-area: text_1;
-    background-color: #CFD2CD;
-    font-size: 25px;
-    padding-left: 20%;
+    font-size: 30px;
+    padding-left: 10%;
+    line-height: 180%;
 }
 
 .image_2 {
     grid-area: image_2;
-    background-color: #E5E6E4;
 }
 
 .image_3 {
     grid-area: image_3;
-    background-color: #E5E6E4;
-    padding-left: 20%;
 }
 
 .text_2 {
     grid-area: text_2;
-    background-color: #FBFBF2;
     font-size: 25px;
-    padding-right: 20%;
+    padding-left: 10%;
+    line-height: 180%;
 }
 
 .text_3 {
     grid-area: text_3;
-    background-color: #FBFBF2;
     font-size: 25px;
-    padding-left: 20%;
-}
-
-.vid_1 {
-    grid-area: vid_1;
-    background-color: #E5E6E4;
-    text-align: center;
-    padding: 40px;
+    padding-left: 10%;
+    line-height: 180%;
 }
 
 .footer {
     grid-area: footer;
-     background-color: #CFD2CD;
+     background-color: #8ff586;
+}
+
+img {
+    width: 600px;
+    height: auto;
 }
