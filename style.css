@@ -1,7 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
-body {
-    margin: 3%;
-}
 
 .container {
     display: grid;
@@ -22,7 +19,7 @@ body {
     grid-area: navbar;
     background-color: #CFD2CD;
     text-align: right;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .navbar ul { 
@@ -38,6 +35,16 @@ body {
 
 .heading_1 {
     grid-area: heading_1;
+}
+
+
+.heading_1 h2{
+    text-align: center;
+    color: #86f5e6;
+    font-size: 20px
+}
+
+.heading_1 h1 {
     text-align: center;
     font-size: 50px
 }

@@ -1,6 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
 body {
-    margin: 3%;
+  background-color: #CFD2CD;
 }
 
 .container {
@@ -20,9 +20,9 @@ body {
 
 .navbar {
     grid-area: navbar;
-    background-color: #f2f2f2;
+    background-color: #CFD2CD;
     text-align: right;
-    font-size: 30px;
+    font-size: 20px;
 }
 
 .navbar ul { 
@@ -39,11 +39,14 @@ body {
 .heading_1 {
     grid-area: heading_1;
     text-align: center;
+    font-size:50px;
 
 }
 
 .text_1 {
     grid-area: text_1;
+    text-align: center;
+    font-size: 30px;
 }
 
 .text_2 {
