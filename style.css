@@ -1,4 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200..700&display=swap');
+body {
+    background-color: #EDEDE9;
+}
 
 .container {
     display: grid;
@@ -40,8 +43,7 @@
 
 .heading_1 h2{
     text-align: center;
-    color: #86f5e6;
-    font-size: 20px
+    font-size: 40px
 }
 
 .heading_1 h1 {
