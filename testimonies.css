@@ -104,6 +104,16 @@ body {
   background-color: #3a6246;
 }
 
+/* Footer */
+.footer {
+  background-color: #CFD2CD;
+  text-align: center;
+  padding: 20px 10px;
+  font-size: 1rem;
+  color: #3B3B37;
+  box-shadow: inset 0 1px 2px rgba(0,0,0,0.1);
+}
+
 /* Responsive design */
 @media (max-width: 768px) {
   .navbar ul {
