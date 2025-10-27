@@ -61,15 +61,18 @@ body {
 }
 
 .hero-text h1 {
-  font-size: 3rem;
+  font-size: 4rem;
   margin-bottom: 10px;
   color: #3B3B37;
+  text-align: center;
 }
 
 .hero-text h2 {
   font-size: 1.8rem;
   font-weight: 400;
   color: #555753;
+  text-align: center;
+
 }
 
   .images-row img{
